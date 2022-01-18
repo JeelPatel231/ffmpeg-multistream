@@ -6,7 +6,7 @@ spin this docker image to some other pc with better processor and internet ( can
 `* -> make sure to open 1935 port if you are thinking to use it on a server`
 
 
-and all you pc has to do is stream, docker image will copy the video over to multiple platforms like twitch, yt, dlive, etc. etc.
+and all your pc has to do is stream, the docker image will copy the video over to multiple platforms like twitch, yt, dlive, etc. etc...
 
 
 ### INSTRUCTIONS
@@ -25,4 +25,4 @@ and all you pc has to do is stream, docker image will copy the video over to mul
 
 
 ### DISCLAIMER
-i just started with docker and nor do i know much about ffmpeg encoding and muxing, this project was easy to make but it can be improved further, so pull requests are always welcome :D
+I just started with docker and nor do I know much about ffmpeg encoding and muxing, this project was easy to make but it can be improved further, so pull requests are always welcomed :D
